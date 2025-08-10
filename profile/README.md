@@ -18,3 +18,13 @@ Other than using it, there are other ways to contribute that we would be gratefu
 * Need a new feature? Please [start a new Ideas thread](https://github.com/orgs/framework3/discussions/new?category=ideas).
 * Just have a question? We've got a [Q&A board just for that](https://github.com/orgs/framework3/discussions/new?category=q-a).
 * Made something cool? We'd love to see it on [the Show & Tell board](https://github.com/orgs/framework3/discussions/new?category=show-and-tell)!
+
+## 🚀 Roadmap
+
+As of 2025, these are the main projects on the roadmap:
+
+* f3 itself - getting the core framework, binary and processes worked out
+* framework3.net - A website built using f3, demonstrating f3's capabilities
+* docs.framework3.net - A sub-domain for all technical documentation
+* framework3.cloud - a global, scalable hosting solution built into the framework, with free and paid options (our main monetization strategy)
+* framework3.org - A go-to for community resources on learning, using, scaling and securing framework3 projects
